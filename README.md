@@ -8,8 +8,8 @@ To remove a todo:
 Press the trashcan
 
 To cross out the todo:
-click the todo
+Click the todo
 
 To hide the input forum:
-click on the pencil
+Click on the pencil
 
